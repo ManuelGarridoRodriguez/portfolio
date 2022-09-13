@@ -1,4 +1,4 @@
-import Header from "../../components/molecules/header";
+import Header from "../../components/molecules/header/header";
 
 function Contact(): JSX.Element {
   return (
